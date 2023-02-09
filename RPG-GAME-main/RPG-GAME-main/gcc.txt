@@ -1,0 +1,1 @@
+gcc battle_skill.c item.c map.c menu.c rpg.c rpg_battle_same_enemy.c rpg_battle_encount_pattern5.c rpg_battle_encount_pattern6.c rpg_battle_encount_pattern7.c rpg_battle_display.c rpg_function.c rpg_levelup.c rpg_story.c rpg_save_load.c 
